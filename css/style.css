@@ -1,3 +1,7 @@
 body { 
-    background-color: purple; 
+    background-color: black; 
+    color: Red; 
+}
+.p1 {
+    font-family: "Lucida Handwriting", "Brush Script MT", Cursive;
 }
