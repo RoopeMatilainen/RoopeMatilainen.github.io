@@ -1,7 +1,5 @@
-<style>
-p { color: red;
+body { 
+    color: red;
     font-size: 30px;
-    background-color: black; }
-</style>
-
-
+    background-color: black; 
+}
