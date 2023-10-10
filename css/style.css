@@ -1,4 +1,5 @@
 body
 p { color: red;
     font-size: 30px; 
+    font-style: playfair display;
     background-color: black; }
